@@ -1,6 +1,8 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        while num >= 10:
-            num = sum(map(int, str(num)))
-        return num
+        num_l = list(map(int, str(num)))
+        while len(num_l) > 1:
+            total = sum(num_l)
+            num_l = list(map(int, str(total)))
+        return (num_l[0])
 Solution()
