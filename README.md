@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/henon12/LeetCode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/henon12/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/henon12/LeetCode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/henon12/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/henon12/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
