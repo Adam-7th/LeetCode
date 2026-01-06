@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/henon12/LeetCode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/henon12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/henon12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/henon12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/henon12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/henon12/LeetCode/tree/master/0055-jump-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/henon12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
